@@ -7,8 +7,7 @@
         "pomelo-monitor": "0.3.7",
         "socket.io": "0.9.16",
         "socket.io-client": "0.9.16",
-        "heapdump": "0.3.7",
-        "v8-profile":"git://github.com/node-inspector/v8-profiler.git"
+        "heapdump": "0.3.7"
     },
     "peerDependencies" : {
         "pomelo-logger" : "0.1.7"
