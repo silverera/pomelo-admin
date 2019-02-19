@@ -4,7 +4,7 @@
     "private": false,
     "dependencies": {
         "mqtt-connection": "4.0.0",
-        "pomelo-scheduler": "git://github.com/silverera/pomelo-scheduler.git",
+        "pomelo-scheduler": "git://github.com/silverera/pomelo-scheduler.git#v0.5.2",
         "pomelo-monitor": "0.3.7"
     },
     "peerDependencies": {
