@@ -8,7 +8,7 @@
         "pomelo-monitor": "0.3.7"
     },
     "peerDependencies": {
-        "pomelo-logger": "0.1.7"
+        "pomelo-logger": "git://github.com/silverera/pomelo-logger.git#v0.1.8"
     },
     "devDependencies": {
         "should": ">=0.0.1",
